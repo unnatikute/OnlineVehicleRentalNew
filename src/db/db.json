@@ -1,0 +1,13 @@
+{
+    "posts": [
+      { "id": "1", "title": "BMW", "views": 100 },
+      { "id": "2", "title": "AUDI", "views": 200 },
+      { "id": "3", "title": "TATA", "views": 100 },
+      { "id": "4", "title": "SUZUKI", "views": 100 }
+    ],
+    
+    
+    "profile": {
+      "name": "typicode"
+    }
+  }
